@@ -3,8 +3,6 @@
 **Full-Stack & AI Developer**  
 Building thoughtful digital products through code, AI, and product thinking.
 
-[Portfolio](https://wendybezerra.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/in/wendymbezerra/) • [GitHub](https://github.com/wendybezerra)
-
 ---
 
 ## About Me
