@@ -30,21 +30,7 @@ Building thoughtful digital products through code, AI, and product thinking.
 
 ---
 
-## Featured Work
 
-- **Routine Care** — AI-powered routine support product  
-  [Repository](https://github.com/wendybezerra/routine-care)
-
-- **IA Assistant** — collaborative AI-related project with front-end and back-end contributions  
-  [Repository](https://github.com/rdleocadio/ia_assistant)
-
-- **Landing Pages & Client Builds** — responsive digital experiences with UX focus  
-  [Live Project](https://wendybezerra.github.io/maizadias_psicologa/)
-
-- **Marketing Portfolio** — branding, storytelling, and digital presence work  
-  [Live Project](https://wendy-marketing-hub.vercel.app/)
-
----
 
 ## Stats
 
