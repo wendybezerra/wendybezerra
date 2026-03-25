@@ -34,9 +34,9 @@ Building thoughtful digital products through code, AI, and product thinking.
 
 ## Stats
 
-![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendybezerra&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=ffffff)
+![Wendy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendybezerra&show_icons=true&theme=default&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendybezerra&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendybezerra&layout=compact&bg_color=0d0d0d&title_color=c084fc&text_color=ffffff&hide_border=true)
 
 ---
 
